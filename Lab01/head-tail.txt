@@ -1,0 +1,10 @@
+..
+input.txt
+output
+ls.txt
+.
+..
+input.txt
+output
+ls.txt
+.
