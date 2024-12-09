@@ -2,9 +2,6 @@
 CC = gcc
 CFLAGS = -Wall -g
 
-#Target files
-TARGET = example1 example2 example3 example4 example5
-
 # Source files
 SOURCES = example1.c example2.c example3.c example4.c example5.c
 
